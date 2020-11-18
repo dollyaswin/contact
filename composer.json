@@ -1,0 +1,13 @@
+{
+    "name": "socialhp/contact",
+    "description": "Manage Contact Domain",
+    "authors": [
+        {
+            "name": "Dolly Aswin",
+            "email": "dolly.aswin@gmail.com"
+        }
+    ],
+    "require": {
+        "php-activerecord/php-activerecord": "^1.2"
+    }
+}
