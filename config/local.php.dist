@@ -1,0 +1,6 @@
+<?php
+return [
+    'db' => [
+	'connection'  => ['development' => 'mysql://socialhp:socialhp@127.0.0.1/socialhp_dev']
+    ]
+];
